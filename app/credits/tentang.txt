@@ -1,0 +1,13 @@
+Sumber Gambar :
+
+SplashScreen :
+Freepik.com (Free License)
+https://www.freepik.com/free-photo/travel-concept-with-worldwide-landmarks_19894712.htm#query=world&from_query=wonderful%20world&position=5&from_view=search
+Diakses : 12 Maret 2022
+
+1. Turki
+	
+
+
+Font "Pesona Dunia" = Rosewood Std Regular, 48, Regular
+Font "v1.0" = Trajan Pro, 24, Bold

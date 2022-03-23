@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RK-Pesona-Dunia</string>
+    <string name="nama_negara">Nama Negara</string>
+    <string name="rincian_negara">Rincian Negara</string>
+    <string name="menu_mode_tampilan">Mode Tampilan</string>
+    <string name="menu_bantuan">Bantuan</string>
+    <string name="menu_keluar">Keluar</string>
+    <string name="button_lihat_destinasi_wisata">Lihat Destinasi Wisata</string>
+    <string name="sub_menu_mode_tampilan_list">Mode Tampilan List</string>
+    <string name="sub_menu_mode_tampilan_cardview">Mode Tampilan CardView</string>
+    <string name="nama_destinasi_wisata">Destinasi Wisata</string>
+    <string name="rincian_destinasi_wisata">Rincian Destinasi Wisata</string>
+</resources>

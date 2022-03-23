@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_mode_tampilan"
+        android:title="@string/menu_mode_tampilan"
+        android:icon="@drawable/icon_menu_mode_tampilan"
+        app:showAsAction="ifRoom">
+
+        <menu>
+
+            <item
+                android:id="@+id/sub_menu_mode_tampilan_list"
+                android:title="@string/sub_menu_mode_tampilan_list"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/sub_menu_mode_tampilan_cardview"
+                android:title="@string/sub_menu_mode_tampilan_cardview"
+                app:showAsAction="never"/>
+
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/menu_bantuan"
+        android:title="@string/menu_bantuan"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_keluar"
+        android:title="@string/menu_keluar"
+        app:showAsAction="never"/>
+
+</menu>

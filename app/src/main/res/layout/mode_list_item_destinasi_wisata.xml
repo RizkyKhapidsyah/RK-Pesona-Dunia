@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:id="@+id/CircleImageView_GambarItemDestinasiWisata"
+        android:layout_marginEnd="16dp"
+        tools:src="@tools:sample/avatars"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextView_ItemNamaDestinasiWisata"
+            android:layout_marginBottom="8dp"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            tools:text="@string/nama_destinasi_wisata"/>
+
+        <TextView
+            android:id="@+id/TextView_ItemRincianDestinasiWisata"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="2"
+            tools:text="@string/rincian_destinasi_wisata" />
+
+    </LinearLayout>
+
+</LinearLayout>
